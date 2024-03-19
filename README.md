@@ -10,3 +10,5 @@ This contains descriptions and screenshots of all the tips demoed. Note these ar
 2. Flight Delays.pbix
 
 This is the .pbix file used for the demo. I have reduced the data size in order to upload to Github. Please do not use this for commercial purposes, training or any other purposes other than individual reference.
+
+The data used in this .pbix file is from the [2015 Flight Delays and Cancellations Kaggle dataset](https://www.kaggle.com/datasets/usdot/flight-delays)
